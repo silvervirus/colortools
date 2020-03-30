@@ -1,0 +1,12 @@
+﻿{
+  "Id": "ColorTools",
+  "DisplayName": "Color Tools",
+  "Author": "Cookie",
+  "Version": "1.0.0",
+  "Dependencies": [],
+  "LoadBefore": [],
+  "LoadAfter": [],
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "ColorTools.dll"
+}
